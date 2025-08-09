@@ -1,0 +1,35 @@
+# Python cache files (automatically generated)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environment (can be recreated with requirements.txt)
+venv/
+.venv/
+env/
+.env/
+ENV/
+backend/venv/
+frontend/node_modules/
+
+# Django
+*.log
+*.pot
+db.sqlite3
+media/
+staticfiles/
+
+# Secret files (passwords, API keys)
+.env
+.env.local
+
+# IDE settings (your personal editor preferences)
+.vscode/
+.idea/
+
+# OS files (system files)
+.DS_Store
+Thumbs.db
