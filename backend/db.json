@@ -1,0 +1,70 @@
+{
+	"genres": [
+		{
+			"id": "fiction",
+			"name": "Fiction",
+			"description": "Imaginative narratives and stories"
+		},
+		{
+			"id": "non_fiction",
+			"name": "Non-Fiction",
+			"description": "Factual and informative content"
+		},
+		{
+			"id": "mystery",
+			"name": "Mystery",
+			"description": "Suspenseful stories with puzzles to solve"
+		},
+		{
+			"id": "romance",
+			"name": "Romance",
+			"description": "Stories centered on romantic relationships"
+		},
+		{
+			"id": "sci_fi",
+			"name": "Sci-Fi",
+			"description": "Science fiction and futuristic stories"
+		},
+		{
+			"id": "biography",
+			"name": "Biography",
+			"description": "Life stories of real people"
+		},
+		{
+			"id": "self_help",
+			"name": "Self Help",
+			"description": "Personal development and improvement"
+		},
+		{
+			"id": "history",
+			"name": "History",
+			"description": "Historical events and periods"
+		},
+		{
+			"id": "fantasy",
+			"name": "Fantasy",
+			"description": "Magical and mythical stories"
+		},
+		{
+			"id": "thriller",
+			"name": "Thriller",
+			"description": "Exciting stories with high tension"
+		}
+	],
+	"sampleBooks": [
+		{
+			"id": 1,
+			"title": "The Great Gatsby",
+			"author": "F. Scott Fitzgerald",
+			"genre": "fiction",
+			"pages": 180
+		},
+		{
+			"id": 2,
+			"title": "Atomic Habits",
+			"author": "James Clear",
+			"genre": "self_help",
+			"pages": 320
+		}
+	]
+}

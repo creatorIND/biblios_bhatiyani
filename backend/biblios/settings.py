@@ -42,6 +42,10 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    # My apps
+    "accounts",
+    "books",
+    "stats",
     # Third-party apps
     "rest_framework",
     "corsheaders",
@@ -182,3 +186,6 @@ X_FRAME_OPTIONS = "DENY"
 # Session security
 SESSION_COOKIE_SECURE = not DEBUG  # Secure in production
 CSRF_COOKIE_SECURE = not DEBUG  # Secure in production
+
+# Custom User model
+AUTH_USER_MODEL = "accounts.User"
