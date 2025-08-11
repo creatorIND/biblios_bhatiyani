@@ -1,4 +1,4 @@
-# Biblios - Book Reading Tracker
+# Akshara - Book Reading Tracker
 
 A personal book reading tracker application that helps users manage their reading journey with features for book management, progress tracking, and reading statistics visualization.
 
@@ -36,9 +36,9 @@ A personal book reading tracker application that helps users manage their readin
 ## 📁 Project Structure
 
 ```
-biblios_bhatiyani/
+akshara/
 ├── backend/
-│   ├── biblios/              # Django project configuration
+│   ├── akshara/              # Django project configuration
 │   │   ├── settings.py       # Project settings
 │   │   ├── urls.py          # Main URL configuration
 │   │   └── wsgi.py          # WSGI configuration
@@ -76,8 +76,8 @@ biblios_bhatiyani/
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/yourusername/biblios_bhatiyani.git
-    cd biblios_bhatiyani
+    git clone https://github.com/yourusername/akshara.git
+    cd akshara
     ```
 
 2. **Navigate to backend directory**
